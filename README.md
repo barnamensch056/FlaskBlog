@@ -1,2 +1,2 @@
 # FlaskBlog
-Flask Blog made with Corey Schafer tutorials.
+Flask Blog App made with Corey Schafer tutorials.
