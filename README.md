@@ -1,2 +1,2 @@
 # FlaskBlog
-This a Flask Blog I made with Corey Schafer tutorials
+Flask Blog made with Corey Schafer tutorials.
